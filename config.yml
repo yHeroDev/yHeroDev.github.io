@@ -113,11 +113,11 @@ params:
 menu:
   main:
     - identifier: projetos
-      name: projetos
+      name: Projetos
       url: /projetos/
       weight: 10
     - identifier: sobre
-      name: sobre
+      name: Sobre
       url: /sobre/
       weight: 20
     #- identifier: example
