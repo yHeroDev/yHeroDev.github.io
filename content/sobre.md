@@ -4,6 +4,9 @@ title = "Sobre"
 aliases = ["sobre-mim", "habilidades"]
 +++
 
-Olá, eu sou Hero! &#x1F44B
+Olá, eu sou Hero!
 
-Sou um artista 3d que gosta de tirar ideias do papel e transformar-lás em algo tangível! Procuro por desafios e oportunidades na área de modelagem e não tenho medo de aprender! Minha ferramenta de trabalho hoje é o [Blender](https://www.blender.org/).
+Deixe-me falar mais sobre quem sou eu. Atuo na plataforma "Roblox" como desenvolvedor de jogos a 3 anos.
+Comecei na platafomr atuando como Builder, porém com o passar do tempo descobri uma facilidade que eu tinha
+para aprender a usar o [Blender](https://www.blender.org/). Desde então sigo como modelador.(3D Artist)
+Atualmente estou trabalhando na NightWalk, gerenciada pelo MaxFlubber e na CL, gerenciada pelo PaidosDev.
